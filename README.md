@@ -12,6 +12,8 @@ A simple web application that allows users to log their daily moods and visualiz
 
 Live Site - https://mood-tracker-nine-orpin.vercel.app/
 
+![alt text](image.png)
+
 ## How to Use
 
 1. **Select a Mood**: Click on an emoji that represents your current mood.
